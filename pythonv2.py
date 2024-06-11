@@ -30,3 +30,4 @@ password = "password"
 read_messages_log(server_ip, username, password)
 
 password = "satosatosato"
+#test
