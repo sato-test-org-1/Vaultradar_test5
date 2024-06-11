@@ -4,3 +4,4 @@ resource "aws_db_instance" "database" {
   instance_class    = "db.t2.micro"
   username          = "admin"
   password          = "satosatosato"
+#test
