@@ -29,5 +29,5 @@ password = "password"
 # ログを読み取り
 read_messages_log(server_ip, username, password)
 
-password = "satosatosato"
+password = "satosatosato" # HashiCorpIgnore
 #test
