@@ -51,3 +51,6 @@ func main() {
 const username = "onose"
 const password = "satosatosato"
 #test
+
+const username = "onose"
+const password = "satosatosato"
